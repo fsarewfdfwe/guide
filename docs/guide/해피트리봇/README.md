@@ -7,11 +7,11 @@ title: 해피트리봇 소개
 # 해피트리봇 소개
 
 <div align="center">
-    <img src="https://htb.teamht.xyz/static/images/logo.png" alt="해피트리봇 아이콘" height="250" style="border-radius: 50%">
+    <img src="https://htb.htlab.kr/static/images/logo.png" alt="해피트리봇 아이콘" height="250" style="border-radius: 50%">
     <h2>해피트리봇, 다양한 기능을 하나의 봇으로</h2>
 </div>
 <div align="center">
-    <a href="https://discord.gg/TD9BvMxhP6">디스코드 서버</a> | <a href="https://htb.teamht.xyz/terms">이용약관</a> | <a href="https://htb.teamht.xyz/privacy">개인정보 처리방침</a> | <a href="https://htb.teamht.xyz/bot_invite">봇 초대하기</a>
+    <a href="https://discord.gg/TD9BvMxhP6">디스코드 서버</a> | <a href="https://htb.htlab.kr/terms">이용약관</a> | <a href="https://htb.htlab.kr/privacy">개인정보 처리방침</a> | <a href="https://htb.htlab.kr/bot_invite">봇 초대하기</a>
 </div>
 
 ---
