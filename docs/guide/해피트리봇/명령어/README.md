@@ -10,7 +10,7 @@ title: 해피트리봇 명령어
 해피트리봇이 v2.0으로 업데이트되면서 디스코드의 ``빗금 명령어``로 제작되었습니다.
 <br>
 ``빗금 명령어``가 나타나지 않는다면, 아래의 ``봇 초대링크``로 다시 초대해주세요.
-+ [봇 초대링크](https://discord.com/oauth2/authorize?client_id=789452453401722920&permissions=379968&scope=bot%20applications.commands)
++ [봇 초대링크](https://htb.htlab.kr/bot_invite)
 :::
 
 ::: warning ⚠ 주의사항
@@ -25,7 +25,7 @@ title: 해피트리봇 명령어
 해피트리봇 시스템에 가입합니다.
 
 ::: warning ⚠ 주의사항
-가입 시 해피트리봇의 [이용약관](https://github.com/discord-korea/Documents/blob/master/해피트리봇/terms.md) 및 [개인정보처리방침](https://github.com/discord-korea/Documents/blob/master/해피트리봇/privacy.md)을 동의한 것으로 간주됩니다.
+가입 시 해피트리봇의 [이용약관](https://htb.htlab.kr/terms) 및 [개인정보처리방침](https://htb.htlab.kr/privacy)을 동의한 것으로 간주됩니다.
 :::
 
 + ``/가입``
