@@ -5,7 +5,7 @@ title: 해피트리봇 대시보드
 ---
 
 # 해피트리봇 대시보드
-해피트리봇의 대시보드는 [https://htb.htlab.kr/dashboard](https://htb. htlab.kr/dashboard)에서 이용하실 수 있습니다.
+해피트리봇의 대시보드는 [https://htb.htlab.kr/dashboard](https://htb.htlab.kr/dashboard)에서 이용하실 수 있습니다.
 
 ## 사용자 지정 초대링크
 ### 사용자 지정 초대링크란?
@@ -14,7 +14,7 @@ title: 해피트리봇 대시보드
 **본 초대링크를 이용하려면 봇에게 `초대 코드 만들기` 권한이 있어야합니다.**
 
 ### 사용방법
-[해피트리봇 대시보드](https://htb. htlab.kr/dashboard)에 접속해 서버를 선택합니다.
+[해피트리봇 대시보드](https://htb.htlab.kr/dashboard)에 접속해 서버를 선택합니다.
 <img src="https://media.discordapp.net/attachments/850515553969897503/944135254132789258/unknown.png" style="width: 76%;">
 
 대시보드 메뉴에서 `사용자 지정 초대링크`를 선택합니다.
