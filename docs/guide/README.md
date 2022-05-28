@@ -12,7 +12,7 @@ title: 공방 소개
 
 |봇 이름|이용약관|개인정보 처리방침|
 |:----:|:----:|:----:|
-|해피트리봇|[여기를 눌러 확인](https://htb.teamht.xyz/terms)|[여기를 눌러 확인](https://htb.teamht.xyz/privacy)|
+|해피트리봇|[여기를 눌러 확인](https://htb.htlab.kr/terms)|[여기를 눌러 확인](https://htb.htlab.kr/privacy)|
 |허브봇|||
 
 ## 공식 디스코드

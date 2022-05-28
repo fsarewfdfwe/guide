@@ -3,5 +3,5 @@
     <h1>삼해트의 공방</h1>
 </div>
 <div align="center">
-    삼해트의 공방 가이드입니다. <a href="https://guide.devht.tech">이 링크</a>에서 확인하실 수 있습니다.
+    삼해트의 공방 가이드입니다. <a href="https://guide.htlab.kr">이 링크</a>에서 확인하실 수 있습니다.
 </div>

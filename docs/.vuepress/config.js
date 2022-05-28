@@ -19,7 +19,7 @@ module.exports = {
 
   themeConfig: {
     search: true,
-    logo: 'https://guide.devht.tech/logo.png',
+    logo: 'https://guide.htlab.kr/logo.png',
     repo: 'discord-korea',
     logo: '/logo.png',
     docsRepo: 'discord-korea/guide',
