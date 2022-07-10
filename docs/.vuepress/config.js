@@ -49,6 +49,11 @@ module.exports = {
           link: '/guide/',
         },
         {
+          text: '교단이',
+          collapsible: true,
+          children: ['/guide/교단이/', '/guide/교단이/명령어', '/guide/교단이/자주 묻는 질문']
+        },
+        {
           text: '해피트리봇',
           collapsible: true,
           children: ['/guide/해피트리봇/', '/guide/해피트리봇/명령어', '/guide/해피트리봇/자주 묻는 질문', '/guide/해피트리봇/대시보드']

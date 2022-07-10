@@ -1,5 +1,5 @@
 ---
-prev: /guide/
+prev: /guide/교단이/자주 묻는 질문
 next: /guide/해피트리봇/명령어/
 title: 해피트리봇 소개
 ---
